@@ -99,7 +99,7 @@ CODSOFT/
    ```
 
 ## About
-These projects were completed as part of the **CodSoft Data Science Internship**, focused on building end-to-end, interactive ML applications — from data preprocessing and model training to deployment as usable Streamlit apps.
+These projects were completed as part of the **CodSoft Data Science Internship**, focused on building end-to-end, interactive ML applications from data preprocessing and model training to deployment as usable Streamlit apps.
 
 ## Author
 **Rutuja Jadhav**
